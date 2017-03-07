@@ -1,2 +1,3 @@
 *.ipynb linguist-language=Python
 markdown/* linguist-language=Python
+*.csv linguist-language=Python
