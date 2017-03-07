@@ -1,4 +1,5 @@
-*.ipynb linguist-language=Python
+*.html linguist-language=Python
 markdown/* linguist-language=Python
 *.csv linguist-language=Python
 *.md linguist-language=Python
+*.ipynb linguist-language=html
